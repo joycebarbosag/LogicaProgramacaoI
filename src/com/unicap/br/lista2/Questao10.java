@@ -1,10 +1,10 @@
-package com.unicap.br.atividade1;
+package com.unicap.br.lista2;
 
 import java.util.Scanner;
 
-public class Atividade1 {
+public class Questao10 {
 
-	@SuppressWarnings({ "unused", "resource" })
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		int habitantes = 0;
