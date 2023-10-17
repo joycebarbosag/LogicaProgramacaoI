@@ -1,2 +1,2 @@
 # atv01
-Atividade 01 da disciplina de Introdução à Programação Web I
+Lista de atividades de Lógica de Programação I
